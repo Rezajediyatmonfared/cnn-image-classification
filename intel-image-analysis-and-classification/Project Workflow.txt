@@ -1,0 +1,34 @@
+Dataset
+   |
+   v
+Dataset Exploration
+   |
+   v
+Image Loading and Resizing
+   |
+   v
+RGB Channel Analysis
+   |
+   v
+Image Normalization
+   |
+   v
+Regression Experiments
+   |
+   v
+Artificial Neural Network
+   |
+   v
+Multiclass CNN
+   |
+   v
+Model Evaluation
+   |
+   v
+Cross-Validation
+   |
+   v
+Binary Classification
+   |
+   v
+ROC and AUC Analysis
