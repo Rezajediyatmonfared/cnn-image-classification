@@ -1,1 +1,10 @@
-
+Python
+NumPy
+OpenCV
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+TensorFlow
+Keras
+Jupyter Notebook
